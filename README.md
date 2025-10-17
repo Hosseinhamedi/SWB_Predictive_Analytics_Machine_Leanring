@@ -31,13 +31,13 @@ You can interact with the notebooks in **two main ways**:
 
  5. From the list of notebooks, click the square icon with an arrow (↗) to open one in a new browser tab
 
- 6. You need to clone the repo manually in the first cell of the notebook. A the top of the notebook, click on "+Code" and type:
+ 6. You need to clone the repo manually in the first cell of the notebook. A the top of the notebook, click on "+ Code" and type:
  ```
 !git clone https://github.com/Hosseinhamedi/SWB_Predictive_Analytics_Machine_Leanring.git
 
 %cd SWB_Predictive_Analytics_Machine_Leanring/notebooks
  ```
- 7. Click on the "Run cell" icon.
+ 7. Click on the "Run cell" icon or use "Ctrl+Enter" keyboard shortcut. 
 
 This method allows you to run and edit the notebooks directly in your browser — no installation required.
 
